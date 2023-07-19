@@ -1,0 +1,13 @@
+ - with regard - 0.34 cm   
+ - main logo - 2.59 cm 
+ - name - 0.5 cm   
+ - designation - 0.29 cm   
+ - line - 0.05 cm  
+ - phone icon - 0.45 cm    
+ - phone text - 0.29 cm    
+ - vertical line - 0.58 cm 
+ - land line - 0.45 cm 
+ - land line text - 0.29 cm    
+ - member of alterego group - 0.4 cm   
+ - india australia uk usa canada - 0.4 cm  
+ - red logo - 2.99 cm  
